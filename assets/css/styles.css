@@ -231,6 +231,10 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
 .faixa span { font-family: var(--f-titulo); font-style: italic; font-weight: 500; font-size: clamp(1.25rem, 2.4vw, 1.7rem); white-space: nowrap; font-variation-settings: "SOFT" 100, "WONK" 1; }
 .faixa svg { width: 22px; height: 22px; fill: var(--rosa); flex: none; }
 @keyframes corre { to { transform: translateX(-50%); } }
+/* A faixa inclinada passa um pouco das bordas da tela de propósito. No celular
+   o overflow-x do body não basta: o navegador alarga a página e cria rolagem
+   lateral. "clip" corta só na horizontal, sem virar área de rolagem. */
+@media (max-width: 960px) { main { overflow-x: clip; } }
 
 /* ---------- lembretes gentis ---------- */
 .lembretes { background: var(--papel); }
