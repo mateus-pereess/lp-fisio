@@ -2,7 +2,7 @@
 // CONFIGURAÇÃO — troque aqui o WhatsApp da Rafa
 // Formato: 55 + DDD + número, só dígitos. Ex.: 5511987654321
 // =========================================================
-const WHATSAPP = "5500000000000";
+const WHATSAPP = "5511995403284"; // (11) 99540-3284
 const MENSAGEM = "Oi, Rafa! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia domiciliar.";
 
 document.documentElement.classList.add("js");

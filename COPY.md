@@ -7,7 +7,7 @@
 ---
 
 ## 1. Hero
-- **Selo:** Fisioterapia domiciliar · [CIDADE]
+- **Selo:** Fisioterapia domiciliar · Santo André
 - **Título:** A fisioterapia que bate na sua porta.
 - **Linha em script:** com propósito e coração
 - **Texto:** Atendo idosos, pessoas em recuperação de cirurgia e quem quer praticar Pilates — na sala, no quarto, na varanda. É onde a vida acontece, então é ali que a gente treina.
@@ -85,9 +85,9 @@ Fisioterapia, pra mim, é isso: propósito e coração.
 
 ## 9. Dúvidas frequentes
 - **Preciso de encaminhamento médico?** Não é obrigatório: o fisioterapeuta tem autonomia para avaliar e tratar. Se você tiver exames, laudos ou orientações do médico (principalmente no pós-operatório), separe para a avaliação — eles ajudam muito.
-- **Quais regiões você atende?** Atendo em [CIDADE E REGIÃO]. Mora perto e não viu seu bairro? Me chama que a gente vê.
+- **Quais regiões você atende?** Atendo em Santo André. Mora perto e ficou na dúvida? Me chama que a gente vê.
 - **Preciso ter aparelhos em casa?** Não. Eu levo os materiais necessários. Só precisamos de um espaço livre — pode ser a sala, o quarto ou a varanda.
-- **Quanto tempo dura cada sessão?** Em média [DURAÇÃO]. O tempo é todo dedicado a você.
+- **Quanto tempo dura cada sessão?** Entre 60 e 90 minutos. O tempo é todo dedicado a você.
 - **Quantas sessões por semana?** Depende do objetivo e da condição de cada pessoa. Definimos juntos depois da avaliação.
 - **Atende por plano de saúde?** [CONFIRMAR] O atendimento é particular, e eu emito recibo para você pedir reembolso ao seu plano, quando ele oferecer essa opção.
 - **Alguém da família pode acompanhar?** Pode e é muito bem-vindo. A família ajuda a manter os exercícios e os cuidados no dia a dia.
@@ -100,12 +100,12 @@ Fisioterapia, pra mim, é isso: propósito e coração.
 **Mensagem pré-preenchida:** "Oi, Rafa! Vim pelo site e gostaria de agendar uma avaliação de fisioterapia domiciliar."
 
 ## 11. Rodapé
-Dra. Rafaela Brigato Moraes · Fisioterapeuta · CREFITO-3/454191-F · Atendimento domiciliar em [CIDADE] · @fisio_rafabrigato
+Dra. Rafaela Brigato Moraes · Fisioterapeuta · CREFITO-3/454191-F · Atendimento domiciliar em Santo André · @fisio_rafabrigato
 
 ---
 
 ### SEO
-- **Title:** Fisioterapia domiciliar em [CIDADE] | Dra. Rafaela Brigato Moraes
+- **Title:** Fisioterapia domiciliar em Santo André | Dra. Rafaela Brigato Moraes
 - **Description:** Fisioterapia em casa para idosos, pós-operatório e Pilates. Atendimento individual, com a família por perto. Agende sua avaliação pelo WhatsApp.
 
 ### Não incluído de propósito
